@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "benim-ilk-uygulamam",
-    "slug": "benim-ilk-uygulamam",
+    "name": "RentApp",
+    "slug": "rentapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
